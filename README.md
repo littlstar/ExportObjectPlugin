@@ -16,11 +16,12 @@ This requires 4.7.6 or later, and requires your engine to be built from source c
 
 # Usage
 
-See YouTube explanation: [Quick rough badly done getting started video](https://www.youtube.com/watch?v=3m85QBjyFGE)
+You can upload the 360 Videos from this plugin directly to Littlstar.com
+
+See YouTube tutorial: [Quick rough badly done getting started video](https://www.youtube.com/watch?v=3m85QBjyFGE)
 
 # Resources
 
-1. [YouTube 360 video guidelines and Metadata tool](https://support.google.com/youtube/answer/6178631?hl=en)
 1. [UE4 Forum Post](https://forums.unrealengine.com/showthread.php?71489-360-Panoramic-Stereoscopic-Export-Pipeline)
 
 # Demos
